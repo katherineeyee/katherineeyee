@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently studying Computer Science at San Jose State University with a passion for AI/ML and full-stack development.
+I recently graduated from San Jose State University with a Bachelor’s degree in Computer Science. I have a passion for AI/ML and full-stack development.
 
 - 🌱 CS Student | San Jose State University
 - 🤖 Cornell Tech AI/ML Fellow | Break Through Tech AI Program
